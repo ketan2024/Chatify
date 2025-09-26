@@ -12,5 +12,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "<h1 align=\"center\">✨ Full-Stack Chat App with Auth & Emails ✨</h1>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ketan2024/Chatify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ketan2024/Chatify/issues"
+  },
+  "homepage": "https://github.com/ketan2024/Chatify#readme"
 }
